@@ -12,5 +12,58 @@ import Menu from "./components/Menu.vue"
 </template>
 
 <style scoped>
+  /* configuraçoes gerais */
+:root{
+  --cor-principal: #F0F0EC;
+  --cor-contraste: #a7a5a8;
+  --cor-marca: #a8a5a5;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+ul{
+  list-style: none;
+}
+
+/* Sidebar */
+
+.sidebar {
+  min-width: 200px;
+  width: 25%;
+  height: 100%;
+}
+
+.active {
+  display: flex;
+  flex-direction: column;
+}
+
+.inactive {
+  display: none;
+}
+
+.btn-list {
+  border: none;
+}
+
+.btn-list {
+  margin: 10px auto 0;
+  background-color: transparent;
+  font-size: 1.1em;
+}
+.rotate {
+  transform: rotate(90deg); /* Rotaciona 90 graus */
+  transition: transform 0.3s ease; /* Suaviza a transição */
+}
+
+.bi {
+  display: inline-block; /* Garante que a rotação funcione */
+}
+
+/* others */
+
 
 </style>
