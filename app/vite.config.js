@@ -12,5 +12,7 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  }
+  },
+  // Configuração para GitHub Pages
+  base: process.env.NODE_ENV === 'production' ? '/doc/' : '/'
 })
