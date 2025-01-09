@@ -42,7 +42,7 @@ export const content = {
                     <section class="mt-5">
                         <h2>Requisitos para o Desenvolvimento</h2>
                         <ul>
-                            <li><strong>Fone de ouvido Meta Quest</strong> compatível.</li>
+                            <li><strong>Headset Quest</strong> compatível.</li>
                             <li>Computador com <strong>Windows 10+</strong> (64 bits) ou <strong>macOS Sierra 10.10+</strong>.</li>
                             <li><strong>Unity Editor 2021 LTS ou superior</strong>, com os seguintes módulos instalados:
                                 <ul>

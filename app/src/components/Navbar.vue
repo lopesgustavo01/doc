@@ -10,6 +10,8 @@
   </template>
   
   <style>
-
+    img {
+  mix-blend-mode: multiply;
+}
   </style>
   
