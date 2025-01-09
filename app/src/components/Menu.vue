@@ -12,6 +12,7 @@
 </template>
 
 <style scoped>
+
 .c{
     background-color: var(--cor-principal);
 }

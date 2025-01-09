@@ -115,18 +115,16 @@ export const content = {
                         <p>Com ferramentas como <strong>Meta XR Core SDK</strong>, <strong>Meta XR Interaction SDK</strong>, e <strong>Meta Quest Developer Hub</strong>, o desenvolvimento para o <strong>Horizon OS</strong> se torna mais acessível e eficiente. Siga as práticas recomendadas para criar experiências imersivas e de alta qualidade.</p>
                     </section>
                 </div>
-
-                <footer class="text-center py-3">
-                    <p>&copy; 2024 Guia de Desenvolvimento para Horizon OS. Todos os direitos reservados.</p>
-                </footer>
           </div>`,
     2: `
         <div class="container-menu align-items-start">
             <h2 class="mt-4 mx-auto">Comece com o Meta Quest Developer Hub</h2>
-            <p class="ps-5 mt-2 mx-5">
+            <section class="mt-2 mx-5">
+                <p class="ps-5 ">
                 Configure seu ambiente de desenvolvimento com o Meta Quest Developer Hub (MQDH). Siga os passos para preparar seu dispositivo e iniciar o desenvolvimento em realidade virtual.
             </p>
-            <div class="text-start px-5 mx-5 px-5  ">
+
+            <div class="text-start px-5 mx-2 mt-5 ">
             <ul>
                 <li><strong>Pré-requisitos:</strong> 
                     <ul>
@@ -163,6 +161,7 @@ export const content = {
                 </li>
             </ul>
             </div>
+            </section>
         </div>    
     `,
     3: `

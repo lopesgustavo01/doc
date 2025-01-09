@@ -1,5 +1,5 @@
 <template>
-    <div class="navbar bg-white" style="border-bottom: 2px solid var(--cor-contraste);">
+    <div class="navbar" style="border-bottom: 2px solid var(--cor-es); background-color: var(--cor-es);">
       <ul class="nav justify-content-center w-100 navbar-light">
       
         <li class="nav-item">

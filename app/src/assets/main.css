@@ -1,8 +1,9 @@
 /* configuraçoes gerais */
 :root{
-  --cor-principal: #F0F0EC;
+  --cor-principal: #ffffff93;
   --cor-contraste: #a7a5a8;
   --cor-marca: #a8a5a5;
+  --cor-es: rgb(129, 129, 129);
 }
 
 *{
